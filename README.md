@@ -2,7 +2,7 @@
 
 <ul>
 <li>💻 Front-end Developer</li>
-<li>📚 Estudando Typescript</li>
+<li>📚 Estudando SQL, PHP</li>
 </ul>
 
 
