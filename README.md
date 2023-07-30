@@ -1,27 +1,22 @@
-## Olá eu sou David Tinoco 👋
-
-<ul>
-<li>💻 Back-end Developer</li>
-
-</ul>
+## Hi i am David Tinoco 👋
 
 
+<h2>💻 Back-end Developer<h2>
+<p>Back-end developer passionate about Node.js and specialized in the Express framework, focusing on the development of scalable and efficient web applications. I have a solid background in JavaScript and take full advantage of the Node.js ecosystem to build robust solutions. I am proficient in using databases, both MongoDB and MySQL, I have knowledge of creating RESTful APIs, implementing authentication and security,</p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidTMaciel&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTMaciel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
  <h3>Principais Tecnologias </h3>
 
  <img align="center" alt="David-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+ <img align="center" alt="typscript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img align="center" alt="David-Js"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />      
  <img align="center" alt="David-Js"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>   
  <img align="center" alt="David-Js"  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
  <img align="center" alt="David-Js" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img align="center" alt="David-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
  <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
  <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
