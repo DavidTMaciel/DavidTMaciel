@@ -7,7 +7,7 @@
 
 
 <div style="display: inline_block"><br>
- <h3>Principais Tecnologias </h3>
+ <h3>Main technologies</h3>
 
  <img align="center" alt="David-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
  <img align="center" alt="typscript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -24,7 +24,7 @@
  
 </div>
 <div>
-<h3 style="display: inline_block">Outros Conhecimentos </h3>
+<h3 style="display: inline_block">Other knowledges </h3>
  <img align="center" alt="David-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img align="center" alt="David-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img align="center" alt="David-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
