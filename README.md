@@ -1,8 +1,10 @@
 ## Hi i am David Tinoco 👋
 
 
-<h2>💻 Back-end Developer<h2>
-<p>Back-end developer passionate about Node.js and specialized in the Express framework, focusing on the development of scalable and efficient web applications. I have a solid background in JavaScript and take full advantage of the Node.js ecosystem to build robust solutions. I am proficient in using databases, both MongoDB and MySQL, I have knowledge of creating RESTful APIs, implementing authentication and security,</p>
+<h2>💻 Full-stack Developer<h2>
+<p>Full Stack Developer specializing in Node.js with an emphasis on the Express framework for the backend. I have extensive knowledge of JavaScript and Typescript, taking full advantage of the Node.js ecosystem to build robust and scalable solutions. I am proficient in databases, including MongoDB, MySQL, and PostgreSQL, and have experience building RESTful APIs, implementing authentication, and security.
+
+In addition, I have front-end skills, using React.js, HTML, CSS, and Next.js to develop complete projects. I have experience with GraphQL to facilitate efficient queries between the client and the server.</p>
 
 
 
